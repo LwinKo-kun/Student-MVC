@@ -1,0 +1,11 @@
+# Maven Build Artifacts
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# IntelliJ IDEA Files
+.idea/
+*.iml
+*.iws
+*.ipr
